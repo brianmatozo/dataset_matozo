@@ -1,0 +1,11 @@
+promotion_id,promotion_name,description,discount_type,discount_value,min_purchase_amount,start_date,end_date,active
+1,SuperSaver,get one free!,Percentage,36,981911,2022-11-01,2024-06-12,false
+2,SummerSavings,End of season sale - new markdowns!,FixedAmount,68,8142735,2022-11-01,2024-12-17,false
+3,SummerSavings,get one free!,FixedAmount,82,2594806,2022-11-01,2024-04-23,true
+4,SuperSaver,Holiday promotion - festive savings!,FixedAmount,49,953429,2022-11-01,2024-04-27,true
+5,FallFrenzy,Weekend sale - don't miss out!,FixedAmount,27,9409381,2022-11-01,2024-04-18,true
+6,BargainBonanza,Flash sale - up to 70% off!,Percentage,67,2921959,2022-11-01,2024-12-08,false
+7,FantasticFinds,Clearance sale - everything must go!,FixedAmount,9,1105122,2022-11-01,2024-11-25,false
+8,FantasticFinds,Weekend sale - don't miss out!,FixedAmount,97,440025,2022-11-01,2024-09-08,true
+9,DiscountDelight,End of season sale - new markdowns!,FixedAmount,56,5917218,2022-11-01,2024-02-24,false
+10,BargainBonanza,Weekend sale - don't miss out!,Percentage,55,8726855,2022-11-01,2024-11-11,true
